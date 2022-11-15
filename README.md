@@ -13,12 +13,6 @@ The project is hosted using [heroku](https://www.heroku.com/about), [here](https
 Checkout this same project made using Firebase and the backend on github [here](https://github.com/Maryll-castelino/firebase-bank)
 hosted using firebase [here](https://fir-bank-c280b.web.app/home)
 
-## Screenshots:
-
-![home](https://github.com/Maryll-castelino/grip-banking-app/blob/master/screenshots/home.png?raw=true)
-![customers](https://github.com/Maryll-castelino/grip-banking-app/blob/master/screenshots/customers.png?raw=true)
-![transfer](https://github.com/Maryll-castelino/grip-banking-app/blob/master/screenshots/transfer.png?raw=true)
-![history](https://github.com/Maryll-castelino/grip-banking-app/blob/master/screenshots/history.png?raw=true)
 
 ## To run on your local machine:
 
